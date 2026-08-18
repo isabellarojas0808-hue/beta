@@ -1,0 +1,31 @@
+<DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Blog de noticias</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<header>
+		<h1>Hallyu - Otaku</h1>
+		<h2>Tu dosis diaria de diversión</h2>
+		
+	</header>
+	<header>
+	<!--Sección Descripción-->
+	<section>
+		<p>¡Bienvenido a Hallyu - Otaku! Este es el espacio definitivo diseñado para todos los amantes del K-pop, los dramas asiáticos, el anime y el manga. Nuestro objetivo es ofrecerte una plataforma bilingüe y ultra rápida donde podrás informarte de manera totalmente libre y al instante sobre las últimas novedades, lanzamientos y tendencias de tus temas favoritos.  Más que un sitio de noticias, somos una comunidad: un espacio seguro, abierto y respetuoso donde puedes conectar con otros usuarios, compartir tus teorías y expresar tu opinión con total libertad. ¡Tu dosis diaria de diversión y cultura asiática comienza aquí!</p>
+		<form>
+			<input type="email" size="50" placeholder="Dirección de correo">
+			<button type="button">Unirse</button>
+		</form>
+	</section>
+	<!--Sección Nuestros valores-->
+	<section>
+		<h2>Nuestros valores</h2>
+		<h4><strong>MISIÓN:</strong> Satisfacer las necesidades de nuestros clientes, creando y comercializando artículos de buena calidad.</h4>
+		<p><strong>VISIÓN:</strong> Ser una empresa líder en la venta de productos deportivos a nivel nacional e internacional, ofreciendo mercadería deportiva de alta calidad y de las mejores marcas.</p>
+		<p><strong>VALORES:</strong> Compromiso, Honestidad, Innovación y Respeto.</p>
+	</section>
+	</header>
+</body>
+</html>
